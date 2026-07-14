@@ -3,8 +3,10 @@ Fully autonomous bench press spotting system. Using computer vision algorithms t
 
 Check out our [DevPost](https://devpost.com/software/otto-spot) entry for this project!
 
-# Extended Demo
-## Click to watch! VVV
+# Demo & Photos
+https://youtu.be/bXroXM2SEfQ
+Click below to watch the video demo!
+
 [![Watch our extended demo!](https://img.youtube.com/vi/bXroXM2SEfQ/maxresdefault.jpg)](https://youtu.be/bXroXM2SEfQ)
 
 ![Photo from our live demonstration](img/demo.webp) ![Photo from the award ceremony depicting our team with the prize check](img/winners.webp)
